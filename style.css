@@ -1,0 +1,38 @@
+body{
+    width: 900px;
+    display: block;
+    
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+.un {
+    color:rgb(255, 32, 236);
+}
+
+span.deux{
+    color:blue;
+}
+
+#milieu{
+    display: flex;
+    flex-direction: column wrap ;
+
+}
+
+img {
+    width : 450px;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+    
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
